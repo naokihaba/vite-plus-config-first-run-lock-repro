@@ -1,0 +1,11 @@
+{
+  "name": "vite-plus-config-first-run-lock-repro",
+  "private": true,
+  "scripts": {
+    "repro": "bash reproduce.sh",
+    "repro:global": "bash reproduce.sh --global"
+  },
+  "devDependencies": {
+    "vite-plus": "1.0.0"
+  }
+}
